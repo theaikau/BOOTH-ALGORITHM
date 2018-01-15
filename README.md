@@ -1,7 +1,7 @@
 # BOOTH-ALGORITHM
 Booth's multiplication algorithm.
 
-Given two integers and number of bits (at least the necessary to represent the two integers), this code will show how Booth's Algorithm for binary multiplication works.
+Given two integers and number of bits (the necessary to represent the two integers at least), this code will show how Booth's Algorithm for binary multiplication works.
 
 The example below shows how 3 and 5 are multiplied according to Booth's Algorithm.
 
