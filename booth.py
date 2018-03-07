@@ -87,7 +87,7 @@ def init_memory(multiplier, n_bits):
 	return memory
 
 # Move todos bits para a "casa" da direita.
-def shit_right(memory):
+def shift_right(memory):
 	memory = memory[:-1]
 	memory = memory[0] + memory
 	return memory
